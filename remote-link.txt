@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://babies-fastest-bones-intense.trycloudflare.com/vnc.html
+URL       : https://heading-advantages-handhelds-warcraft.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-07 03:20:17
+Created   : 2026-10-07 11:28:25
 =======================================================
