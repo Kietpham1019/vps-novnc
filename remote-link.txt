@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://majority-phases-spa-sophisticated.trycloudflare.com/vnc.html
+URL       : https://buf-job-gregory-significantly.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-08 03:35:39
+Created   : 2026-10-08 11:43:51
 =======================================================
