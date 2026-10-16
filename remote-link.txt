@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://heads-intend-brain-launch.trycloudflare.com/vnc.html
+URL       : https://solaris-detective-cradle-kernel.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 02:17:01
+Created   : 2026-10-16 09:26:59
 =======================================================
