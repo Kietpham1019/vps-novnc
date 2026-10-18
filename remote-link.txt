@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://handheld-wanted-enzyme-path.trycloudflare.com/vnc.html
+URL       : https://duke-obvious-nat-besides.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 17:44:00
+Created   : 2026-10-18 22:07:12
 =======================================================
