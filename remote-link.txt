@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://overcome-canyon-cams-salaries.trycloudflare.com/vnc.html
+URL       : https://mini-future-proposals-blessed.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-24 22:09:01
+Created   : 2026-10-25 02:19:33
 =======================================================
