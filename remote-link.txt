@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://pulse-john-definitely-limits.trycloudflare.com/vnc.html
+URL       : https://mai-amendment-junior-sentence.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-27 02:55:31
+Created   : 2026-10-27 10:09:57
 =======================================================
