@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://rotary-storm-technological-passport.trycloudflare.com/vnc.html
+URL       : https://once-highlights-lone-moral.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-30 23:25:17
+Created   : 2026-10-31 03:18:58
 =======================================================
