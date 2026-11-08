@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://correct-railroad-taxi-proc.trycloudflare.com/vnc.html
+URL       : https://pupils-detailed-seventh-refused.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-07 23:17:17
+Created   : 2026-11-08 03:22:59
 =======================================================
