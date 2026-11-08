@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://puzzle-doubt-passport-accessing.trycloudflare.com/vnc.html
+URL       : https://interpreted-entertaining-speeds-priest.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-08 11:38:49
+Created   : 2026-11-08 19:17:07
 =======================================================
