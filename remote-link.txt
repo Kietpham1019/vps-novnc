@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://star-herald-static-posted.trycloudflare.com/vnc.html
+URL       : https://episodes-bird-facilities-pure.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-12 13:29:38
+Created   : 2026-11-12 21:42:26
 =======================================================
