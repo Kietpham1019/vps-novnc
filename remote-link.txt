@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://companies-constructed-partner-welfare.trycloudflare.com/vnc.html
+URL       : https://dig-university-previous-arbitration.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-19 05:02:45
+Created   : 2026-11-19 18:46:34
 =======================================================
