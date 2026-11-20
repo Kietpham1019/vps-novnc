@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dig-university-previous-arbitration.trycloudflare.com/vnc.html
+URL       : https://living-proved-four-oakland.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-19 18:46:34
+Created   : 2026-11-20 01:33:43
 =======================================================
