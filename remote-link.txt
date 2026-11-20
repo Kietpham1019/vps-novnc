@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://classic-arena-commerce-numerous.trycloudflare.com/vnc.html
+URL       : https://kit-investments-perfectly-says.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-20 13:46:41
+Created   : 2026-11-20 22:05:26
 =======================================================
