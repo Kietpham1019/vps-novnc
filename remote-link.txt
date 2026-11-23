@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hugo-point-accessories-withdrawal.trycloudflare.com/vnc.html
+URL       : https://acre-closing-masters-juvenile.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-23 04:46:08
+Created   : 2026-11-23 15:33:33
 =======================================================
