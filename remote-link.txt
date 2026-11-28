@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brief-doors-where-say.trycloudflare.com/vnc.html
+URL       : https://neighbor-anne-acres-minerals.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-27 19:17:53
+Created   : 2026-11-28 02:24:42
 =======================================================
